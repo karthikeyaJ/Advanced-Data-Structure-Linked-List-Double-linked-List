@@ -1,0 +1,61 @@
+﻿Build started 9/22/2014 10:42:33 PM.
+     1>Project "E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Assignment1\Assignment1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DoubleList.cpp Grader01.cpp SingleList.cpp main.cpp
+         main.cpp
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\main.cpp(31): warning C4244: '+=' : conversion from '__int64' to 'long', possible loss of data
+         SingleList.cpp
+         Grader01.cpp
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(80): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(172): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(270): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(304): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(347): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(378): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(395): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(423): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(466): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(496): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(513): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(520): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(547): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(582): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(590): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(620): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(637): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(665): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(700): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(708): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(738): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ms in computer eng\fall 2014 semester 2\ads\assignment1\assignment1\grader01.cpp(755): warning C4018: '<' : signed/unsigned mismatch
+         DoubleList.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Debug\Assignment1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Debug\Assignment1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Debug\Assignment1.lib" /MACHINE:X86 Debug\AbstractGrader.obj
+         Debug\Date.obj
+         Debug\DoubleList.obj
+         Debug\DoubleNode.obj
+         Debug\Factory01.obj
+         Debug\Grader01.obj
+         Debug\main.obj
+         Debug\ObjectFactory.obj
+         Debug\Random.obj
+         Debug\SingleList.obj
+         Debug\SingleNode.obj
+         Debug\Stopwatch.obj
+         Debug\UnixStopwatch.obj
+         Debug\WindowsStopwatch.obj
+         Assignment1.vcxproj -> E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Debug\Assignment1.exe
+     1>Done Building Project "E:\MS IN COMPUTER ENG\Fall 2014 semester 2\ADS\Assignment1\Assignment1\Assignment1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.64
